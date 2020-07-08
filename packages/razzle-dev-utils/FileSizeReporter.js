@@ -46,6 +46,7 @@ function printFileSizesAfterBuild(
           return {
             folder: path.join(
               path.basename(buildFolder),
+              path.basename(root),
               path.dirname(asset.name)
             ),
             name: path.basename(asset.name),
