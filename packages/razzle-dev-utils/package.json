@@ -9,6 +9,7 @@
     "logger.js",
     "printErrors.js",
     "FriendlyErrorsPlugin.js",
+    "FileSizeReporter.js",
     "webpackHotDevClient.js",
     "setPorts.js",
     "makeLoaderFinder.js",
