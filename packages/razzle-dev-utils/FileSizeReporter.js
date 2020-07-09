@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * Copyright (c) 2015-present, Facebook, Inc.
  *
@@ -5,7 +7,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-'use strict';
 
 var fs = require('fs');
 var path = require('path');
